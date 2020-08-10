@@ -20,10 +20,8 @@
 
 - ⚡ Fun fact: **I play drums.**
 
-<br>
-</p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1582&layout=compact&hide=html" alt="rahul1582" />
 
-<br>
+</p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1582&layout=compact&hide=html" alt="rahul1582" />
 
 <h3 align="center">You can visit these of my Profiles:-</h3>
 
