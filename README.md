@@ -20,9 +20,12 @@
 
 - ⚡ Fun fact: **I play drums.**
 
+<br>
 </p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1582&layout=compact&hide=html" alt="rahul1582" />
 
-<h3 align="center">You can visit these of my profiles:-</h3>
+<br>
+
+<h3 align="center">You can visit these of my Profiles:-</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-kumar-patro-479016184/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rahul-kumar-patro-479016184/" height="30" width="30" /></a>
