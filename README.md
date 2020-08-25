@@ -12,13 +12,15 @@
 
 - 👨‍💻 Some of my projects are available at [https://portfolio-rahul15.herokuapp.com/projects.html](https://portfolio-rahul15.herokuapp.com/projects.html)
 
-- 📫 How to reach me **rahulkpatro@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/rahul-kumar-patro-479016184/**
 
 - ⚡ I am a  **Gearhead and Travel Addict.**
 
 - 😄 Pronouns: **He/Him.**
 
 - ⚡ Fun fact: **I play drums.**
+
+--- Please have a look at my Portfolio Website- [https://portfolio-rahul15.herokuapp.com/](https://portfolio-rahul15.herokuapp.com/)
 
 
 </p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1582&layout=compact&hide=html" alt="rahul1582" />
