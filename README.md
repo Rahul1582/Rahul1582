@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently working on **Hand Written Equation Solver**
+- 🔭 I’m currently working on **Hand Written Equation Solver.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning Using Pytorch.**
 
