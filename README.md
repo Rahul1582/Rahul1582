@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, This is Rahul Kumar Patro</h1>
+<h1 align="center"; font-family="Arial";font-weight=bolder>Hello 👋, This is Rahul Kumar Patro</h1>
 
 <h3 align="center">A 3rd year Undergraduate student pursuing Integrated MSC in Mathematics and Computing at Birla Institute Of Technology, Mesra, Ranchi and an AI enthusiast from Bhubaneswar,Odisha.</h3>
 
@@ -22,7 +22,6 @@
 
 --- Please have a look at my Portfolio Website- **https://portfolio-rahul15.herokuapp.com/**
 
-### [Languages Most Used]
 </p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1582&layout=compact&theme=radical&show_icons=true&hide_border=true&hide=html" alt="rahul1582" />
 <h3 align="center">You can visit these of my Profiles:-</h3>
 
