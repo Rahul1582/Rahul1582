@@ -22,8 +22,6 @@
 
 --- Please have a look at my Portfolio Website- **https://portfolio-rahul15.herokuapp.com/**
 
-</p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul1582&layout=compact&theme=radical&show_icons=true&hide_border=true&hide=html" alt="rahul1582" />
-
 <h3 align="center">You can visit these of my Profiles:-</h3>
 
 <p align="center">
