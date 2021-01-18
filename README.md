@@ -1,16 +1,19 @@
-<h1 align="center"; font-family="Arial";font-weight=bolder>Hello 👋, This is Rahul Kumar Patro</h1>
+<h1 align="center"; font-family="Arial";font-weight=bolder>Hi There 👋, This is Rahul Kumar Patro</h1>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul1582" alt="Rahul1582" /> </p> -->
 
 <h3 align="center">A 3rd year Undergraduate student pursuing Integrated MSC in Mathematics and Computing at Birla Institute Of Technology, Mesra, Ranchi and an AI enthusiast from Bhubaneswar,Odisha.</h3>
 
-<img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 I’m currently working on **Hand Written Equation Solver.**
+ <img align="right" alt="GIF" src="code.gif" height="320" />
+
+- 👨🏽‍💻 I’m currently working on something **cool.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning Using Pytorch.**
 
 - 👯 I’m looking to collaborate on **building communitites, and research projects in Deep Learning and ML.**
 
-- 👨‍💻 Some of my projects are available at **https://portfolio-rahul15.herokuapp.com/projects.html**
+- 👨‍💻 Some of my projects and blogs are available at **https://rahul15.now.sh/projects.html#projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rahul-kumar-patro-479016184/**
 
@@ -20,7 +23,8 @@
 
 - ⚡ Fun fact: **I play drums.**
 
---- Please have a look at my Portfolio Website- **https://portfolio-rahul15.herokuapp.com/**
+--- Please have a look at my Portfolio Website- **https://rahul15.now.sh/**
+
 
 <h3 align="center">You can visit these of my Profiles:-</h3>
 
