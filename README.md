@@ -2,9 +2,13 @@
 
 <h3 align="center">I am currently in the 4th Year and pursuing Integrated MSC in Mathematics and Computing at Birla Institute Of Technology, Mesra, Ranchi</h3>
 
- <img align="right" alt="Display Image" src="image.gif" height="300" width="300"/>
+<p align="center">
+<img height="350px" width="1000px" src="image1.png">
+</p>
 
  <!-- I am Rahul Kumar Patro, basically into percipient software development. I am a Full-stack Web developer with exceptional leadership and collaboration skills, I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. -->
+
+ <img align="right" alt="Display Image" src="image.gif" height="300" width="300"/>
 
 - 💻 &nbsp;Full Stack Developer.
 
@@ -21,6 +25,7 @@
 - 😄 Pronouns: **He/Him.**
 
 - ⚡ Fun fact: **I play drums.**
+
 
 <!-- ### Languages:                                                         
 
