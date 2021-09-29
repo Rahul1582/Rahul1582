@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects using JavaScript**.   
 
-- 👨‍💻 Some of my projects and blogs are available at **https://rahul15.now.sh/projects.html#projects**
+- 👨‍💻 Some of my projects and blogs are available at **https://rahul15.vercel.app/#projects**
 
 - 🍎  **Beginner Mindset** (Open to Learning).
 
