@@ -1,6 +1,6 @@
 <h1 align="center"; font-weight=bolder>Hola👋, I'm Rahul Kumar Patro</h1>
 
-<h3 align="center">I am currently in the 4th Year and pursuing Integrated MSC in Mathematics and Computing at Birla Institute Of Technology, Mesra, Ranchi</h3>
+<h3 align="center">I am currently in the 5th Year and pursuing Integrated MSC in Mathematics and Computing at Birla Institute Of Technology, Mesra, Ranchi</h3>
 
 <p align="center">
 <img height="350px" width="1000px" src="image1.png">
