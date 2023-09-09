@@ -9,7 +9,7 @@
 <div align="center">
   
 # 💫About Me :
-💻 &nbsp;Working as a Software Development Engineer - 1.
+💻 &nbsp;Working as a Software Development Engineer - 1 at Truminds Software Systems.
 
 👯 I’m looking to collaborate on **Open Source Projects using JavaScript, Typescript**.   
 
