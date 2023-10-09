@@ -51,7 +51,6 @@
 
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul1582&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Rahul1582&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul1582&theme=discord&no-frame=false&no-bg=false&margin-w=4)
