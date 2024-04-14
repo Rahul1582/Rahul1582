@@ -15,8 +15,6 @@
 
 👯 I’m looking to collaborate on **Open Source Projects using JavaScript, Typescript**.   
 
-👨‍💻 Some of my projects and blogs are available at **https://rahul15.vercel.app/#projects**
-
 🍎  **Beginner Mindset** (Open to Learning).
 
 ⚡ I am a  **Gearhead and Travel Addict.**
