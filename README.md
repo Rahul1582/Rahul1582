@@ -1,14 +1,16 @@
-<h1 align="center">
- Hola👋, I'm Rahul Kumar Patro
-</h1>
 <p align="center">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" height=350 width=500>
+  <img src="./intro-bg.gif">
 </p>
 
 ---
 <div align="center">
-  
+
 # 💫About Me :
+
+<img src="./developer.jpg" width="35%" align="right" alt="Github">  
+
+<br>
+
 💻 &nbsp;Working as a Software Development Engineer - 1 at Truminds Software Systems.
 
 👯 I’m looking to collaborate on **Open Source Projects using JavaScript, Typescript**.   
@@ -23,6 +25,9 @@
 
 ⚡ Fun fact: **I play drums.**
 
+<br><br>
+
+<div align="center">
 
 ## 🌐Socials
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rahul158_/) 
@@ -50,7 +55,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 # 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul1582&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul1582&theme=calm-pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Rahul1582&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆GitHub Trophies
